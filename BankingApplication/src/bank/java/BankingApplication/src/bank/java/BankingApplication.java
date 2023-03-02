@@ -12,7 +12,7 @@ public class BankingApplication {
 		int amount;
 		int accno;
 		ArrayList<Account>list=new ArrayList();
-		list.add(new Account(" Lakshmi Kulkarni","Latur",4000));
+		list.add(new Account(" Sham","Latur",4000));
 		list.add(new Account(" pooja Kulkarni","pune",5000));
 		list.add(new Account(" neha patil","nagpur",7000));
 		list.add(new Account(" ram joshi","mumbai",9000));
